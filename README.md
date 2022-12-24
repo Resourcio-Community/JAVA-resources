@@ -18,7 +18,7 @@ Enjoy!
 | Java: A Beginner's Guide, Ninth Edition Paperback | [Click Here](https://amzn.eu/d/0LkTVWx) | [Click Here](https://www.pdfdrive.com/java-a-beginners-guide-eighth-edition-d185753177.html) |
 | Head First Java: A Brain-Friendly Guide, Third Edition | [Click Here](https://amzn.eu/d/5Qsnuf0) | [Click Here](https://www.pdfdrive.com/head-first-java-d175339683.html) |
 | Core Java: An Integrated Approach, New: Includes All Versions upto Java 8 | [Click Here](https://amzn.eu/d/1DPm3IC) | Not Available |
-| Java Programming Language | Learn Java from Basic to Advance 2022 Paperback – 1 January 2022  | [Click Here](https://amzn.eu/d/8Y81syT) | Not Available |
+| Java Programming Language, Learn Java from Basic to Advance 2022 Paperback – 1 January 2022  | [Click Here](https://amzn.eu/d/8Y81syT) | Not Available |
 | Programming with Java, 6th Edition Paperback – 25 by E Balagurusamy | [Click Here](https://amzn.eu/d/019Jhja) | Not Available |
 ---
 ## YouTube Channels for JAVA
