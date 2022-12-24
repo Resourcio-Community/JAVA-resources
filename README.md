@@ -1,6 +1,6 @@
 # JAVA-resources
 
-This is an awesome project about JAVA resources. ⚡
+This is an awesome repo about JAVA resources. ⚡
 
 Resources are added frequently! ⚡
 
